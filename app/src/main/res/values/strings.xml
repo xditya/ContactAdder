@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ContactAdder</string>
+    <string name="create_a_new_contact">Create a new Contact.</string>
+    <string name="name">Name*</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="website">WebSite</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="values_marked_with_are_mandatory">* Values marked with \"*\" are mandatory.</string>
+    <string name="contacts_app">Contacts App</string>
 </resources>

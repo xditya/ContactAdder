@@ -16,7 +16,7 @@
         android:layout_marginRight="15dp"
         android:layout_marginBottom="10dp"
         android:gravity="center_horizontal"
-        android:text="Contacts App"
+        android:text="@string/contacts_app"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -28,7 +28,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="15dp"
         android:layout_marginBottom="10dp"
-        android:text="Create a new Contact" />
+        android:text="@string/create_a_new_contact" />
 
     <TextView
         android:id="@+id/tvResultsMain"
